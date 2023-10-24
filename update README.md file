@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1><b>Messages App</b></h1>
+<h1><b>hello-rails-react</b></h1>
  
   <img src="./page1.png" alt="logo" width="200"  height="auto">
   <img src="./page2.png" alt="logo" width="200"  height="auto">
@@ -36,7 +36,7 @@
 
 # 📖 [RECIPE APP] <a name="about-project"></a>
 
-**[Messages App]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use react in a rails app.
+**[hello-rails-react]**  is a web application that serves as a test for the Microverse Final Capstone project, which teaches how to use react in a rails app.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -102,11 +102,11 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone "https://github.com/danielochuba/messages_app.git"
+  git clone "https://github.com/danielochuba/hello-rails-react.git"
 ```
 ### Install
 
-Go to your /budget-app folder:
+Go to your /hello-rails-react folder:
 
 ```sh
   cd messages_app
@@ -121,7 +121,6 @@ Go to your /budget-app folder:
 ```sh
   rails server
 ```
-
 
 ## 👥 Authors <a name="authors"></a>
 
